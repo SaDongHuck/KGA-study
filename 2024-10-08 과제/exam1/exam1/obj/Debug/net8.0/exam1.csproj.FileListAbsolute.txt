@@ -1,0 +1,14 @@
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\bin\Debug\net8.0\exam1.exe
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\bin\Debug\net8.0\exam1.deps.json
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\bin\Debug\net8.0\exam1.runtimeconfig.json
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\bin\Debug\net8.0\exam1.dll
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\bin\Debug\net8.0\exam1.pdb
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.AssemblyInfoInputs.cache
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.AssemblyInfo.cs
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.dll
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\refint\exam1.dll
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.pdb
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\exam1.genruntimeconfig.cache
+C:\Users\KGA\Desktop\과제모음\2024-10-08 과제\exam1\exam1\obj\Debug\net8.0\ref\exam1.dll
